@@ -16,3 +16,7 @@
 ### **Pralin Khaira**: [BitH0xer](https://github.com/pralinkhaira)
 - Jammu & Kashmir, India
 - Hobbies: Guitar, Gaming, Coding.
+
+### **Praveer Nandan**: [praveer7398](https://github.com/praveer7398)
+- Uttar Pradesh, India
+- Hobbies: Android dev, Cricket, etc
